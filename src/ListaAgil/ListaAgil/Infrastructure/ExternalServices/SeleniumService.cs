@@ -1,10 +1,4 @@
-﻿using ListaAgil.Domain.Interfaces;
-using System.Collections.ObjectModel;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Support.UI;
-
-namespace ListaAgil.Infrastructure.ExternalServices;
+﻿namespace ListaAgil.Infrastructure.ExternalServices;
 
 public class SeleniumService : ISeleniumService
 {

@@ -1,7 +1,4 @@
-﻿using OpenQA.Selenium;
-using System.Collections.ObjectModel;
-
-namespace ListaAgil.Domain.Interfaces;
+﻿namespace ListaAgil.Domain.Interfaces;
 
 public interface ISeleniumService
 {
